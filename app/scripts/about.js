@@ -1,8 +1,12 @@
 var fill = d3.scale.category20();
   d3.layout.cloud().size([300, 300])
       .words([
-        "java", "technology", "iot", "rasberryPi", "javascript", "nodejs", "finance", 
-        "assetmanagement", "equity", "fixedincome"].map(function(d) {
+        "java", "spring", "hibernate", "service oriented architecture", 
+        "hadoop", "spark", "linux", "bash", "html", "css", "javascript", 
+        "highcharts", "d3", "paas", "iot", "rasberry pi", "arduino", 
+        "octulus rift", "nodejs", "express", "finance", "asset management", 
+        "index equity", "fundamental equity", "fixed income", "asset classes", 
+        "performance measurement", "attribution", "contribution"].map(function(d) {
         return {text: d, size: 10 + Math.random() * 90};
       }))
       .padding(5)
