@@ -1,10 +1,29 @@
 java
-technology
-iot
-rasberryPi
+spring
+hibernate
+service oriented architecture
+hadoop
+spark
+linux
+bash
+html
+css
 javascript
+highcharts
+d3
+paas
+iot
+rasberry pi
+arduino
+octulus rift
 nodejs
+express
 finance
-assetmanagement
-equity
-fixedincome
+asset management
+index equity
+fundamental equity
+fixed income
+asset classes
+performance measurement
+attribution
+contribution
