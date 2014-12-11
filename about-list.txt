@@ -1,0 +1,10 @@
+java
+technology
+iot
+rasberryPi
+javascript
+nodejs
+finance
+assetmanagement
+equity
+fixedincome
